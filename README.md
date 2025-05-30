@@ -20,6 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasantapy&show_icons=true&locale=en&layout=compact" alt="prasantapy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasantapy&show_icons=true&locale=en" alt="prasantapy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasantapy&" alt="prasantapy" /></p>
