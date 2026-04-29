@@ -91,3 +91,6 @@ Frontend
 
 
 
+<p align="center">
+  <i>"Code is like cricket — every bug fixed is a wicket taken. Keep bowling."</i> 🏏
+</p>
