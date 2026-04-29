@@ -30,11 +30,11 @@ Structured using routers, schemas, models, and CRUD layers
 🚀 Projects
 🔹 Gym Management System — Django | MySQL | DRF
 
-A web application for managing gym members, attendance, and fee tracking with admin dashboard.
+<h2>A web application for managing gym members, attendance, and fee tracking with admin dashboard.
 Built 8+ RESTful APIs for member management, attendance, and fee tracking using DRF
 Implemented user authentication and role-based access control
 Managed database operations using MySQL with optimized SQL queries
-Admin-level dashboard for full data management.
+Admin-level dashboard for full data management.</h2>
 ![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-black?style=flat&logo=github)
 
 🛠️ Tech Stack
