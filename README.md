@@ -71,8 +71,8 @@ Frontend
 ---
 🏆 Achievements
 
-🥇 Ranked Top 3 in HackerRank coding contests at Naresh IT
-✅ Completed Python Certification from Naresh IT
+🥇 Ranked Top 3 in HackerRank coding contests at Naresh IT<br>
+✅ Completed Python Certification from Naresh IT<br>
 🚀 Built and deployed 2 backend projects using Django and FastAPI
 
 🤝 Connect With Me
